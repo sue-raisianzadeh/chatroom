@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import Signup from './pages/Signup'
 import Login from './pages/Login'
-import './style.scss'
+import './main.scss'
 import Home from './pages/Home'
 
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
